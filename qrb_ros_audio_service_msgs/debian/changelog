@@ -1,0 +1,13 @@
+ros-jazzy-qrb-ros-audio-service-msgs (2.0.0) noble; urgency=medium
+
+  * merge qrb_ros_audio_common_msgs into qrb_ros_audio_service_msgs.
+
+ -- Ronghui Zhu <ronghuiz@qti.qualcomm.com>  Tue, 2 Nov 2026 10:18:00 -0000
+
+ros-jazzy-qrb-ros-audio-service-msgs (1.0.0) noble; urgency=high
+
+  * First release for Debian package.
+
+ -- yuchpan <yuchpan@qti.qualcomm.com>  Tue, 29 Jul 2025 12:15:42 -0000
+
+
